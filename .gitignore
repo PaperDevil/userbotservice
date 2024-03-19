@@ -1,0 +1,9 @@
+/.venv
+/.idea
+
+/configs
+/uploads
+/media
+
+*.session
+*.sqlite3
