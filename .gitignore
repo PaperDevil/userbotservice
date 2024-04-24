@@ -4,6 +4,7 @@
 /configs
 /uploads
 /media
+/__pycache__
 
 *.session
 *.sqlite3
